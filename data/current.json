@@ -1,4 +1,305 @@
 {
-  "lastUpdated": "",
-  "news": []
+  "lastUpdated": "2025-12-24T12:00:00Z",
+  "news": [
+    {
+      "id": "20251222-001",
+      "title": "One in a million: celebrating the customers shaping AI's future",
+      "url": "https://openai.com/index/one-in-a-million-customers",
+      "sourceName": "OpenAI",
+      "category": "Other",
+      "publishedAt": "2025-12-22T00:00:00Z",
+      "summary": "【発表】OpenAIによる新サービスが発表されました\n【意義】AI技術の応用範囲が拡大します\n【ポイント】\n・新機能追加\n・体験向上\n・業界影響",
+      "importance": "normal"
+    },
+    {
+      "id": "20251222-002",
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "sourceName": "OpenAI",
+      "category": "Service",
+      "publishedAt": "2025-12-22T00:00:00Z",
+      "summary": "【発表】ChatGPT Atlasでプロンプトインジェクション対策強化\n【意義】セキュリティが向上し、より安全なAI利用が実現\n【ポイント】\n・セキュリティ強化\n・プロンプト保護\n・ユーザー保護向上",
+      "importance": "normal"
+    },
+    {
+      "id": "20251222-003",
+      "title": "Evaluating chain-of-thought monitorability",
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+      "sourceName": "OpenAI",
+      "category": "Model",
+      "publishedAt": "2025-12-22T00:00:00Z",
+      "summary": "【発表】思考連鎖モニタリング評価方法が提案されました\n【意義】AI推論プロセスの透明化が進み、信頼性向上に寄与\n【ポイント】\n・推論可視化\n・信頼性向上\n・透明性確保",
+      "importance": "normal"
+    },
+    {
+      "id": "20251222-004",
+      "title": "Deepening our collaboration with the U.S. Department of Energy",
+      "url": "https://openai.com/index/us-department-of-energy-collaboration",
+      "sourceName": "OpenAI",
+      "category": "Other",
+      "publishedAt": "2025-12-22T00:00:00Z",
+      "summary": "【発表】米国エネルギー省との協力が深化しました\n【意義】科学技術領域でのAI活用が加速します\n【ポイント】\n・政府連携強化\n・科学応用推進\n・基盤研究支援",
+      "importance": "normal"
+    },
+    {
+      "id": "20251222-005",
+      "title": "Introducing GPT-5.2-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-2-codex",
+      "sourceName": "OpenAI",
+      "category": "Model",
+      "publishedAt": "2025-12-22T00:00:00Z",
+      "summary": "【発表】GPT-5.2-Codex がリリースされました\n【意義】コード生成に特化したGPTの最新版で、開発生産性が向上します\n【ポイント】\n・コード生成に最適化\n・複雑な開発タスク対応\n・GPT-5系最新版",
+      "importance": "high"
+    },
+    {
+      "id": "20251222-006",
+      "title": "Introducing OpenAI Academy for News Organizations",
+      "url": "https://openai.com/index/openai-academy-for-news-organizations",
+      "sourceName": "OpenAI",
+      "category": "Service",
+      "publishedAt": "2025-12-22T00:00:00Z",
+      "summary": "【発表】ニュース媒体向けOpenAI Academy がスタート\n【意義】報道機関のAI活用支援で、ジャーナリズム変革促進\n【ポイント】\n・報道支援プログラム\n・メディアAI活用\n・業界連携",
+      "importance": "normal"
+    },
+    {
+      "id": "20251222-007",
+      "title": "Developers can now submit apps to ChatGPT",
+      "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+      "sourceName": "OpenAI",
+      "category": "Service",
+      "publishedAt": "2025-12-22T00:00:00Z",
+      "summary": "【発表】開発者がChatGPTへのアプリ投稿が可能に\n【意義】エコシステム拡大で、ChatGPT機能が大幅充実\n【ポイント】\n・アプリ投稿開放\n・エコシステム拡大\n・開発者参加促進",
+      "importance": "normal"
+    },
+    {
+      "id": "20251222-008",
+      "title": "The new ChatGPT Images is here",
+      "url": "https://openai.com/index/new-chatgpt-images-is-here",
+      "sourceName": "OpenAI",
+      "category": "Service",
+      "publishedAt": "2025-12-22T00:00:00Z",
+      "summary": "【発表】新しいChatGPT Images機能がリリース\n【意義】画像生成機能統合でマルチモーダル能力強化\n【ポイント】\n・画像生成統合\n・マルチモーダル対応\n・体験向上",
+      "importance": "normal"
+    },
+    {
+      "id": "20251222-009",
+      "title": "Introducing GPT-5.2",
+      "url": "https://openai.com/index/introducing-gpt-5-2",
+      "sourceName": "OpenAI",
+      "category": "Model",
+      "publishedAt": "2025-12-22T00:00:00Z",
+      "summary": "【発表】GPT-5.2 が新たに導入されました\n【意義】業界をリードする最新LLMリリースで、AI能力が大幅強化\n【ポイント】\n・最先端LLMモデル\n・処理能力大幅向上\n・OpenAI最新世代",
+      "importance": "high"
+    },
+    {
+      "id": "20251222-010",
+      "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+      "url": "https://openai.com/index/disney-sora-agreement",
+      "sourceName": "OpenAI",
+      "category": "Other",
+      "publishedAt": "2025-12-22T00:00:00Z",
+      "summary": "【発表】ディズニーとOpenAIがSoraで提携\n【意義】大企業との提携により、動画生成AI活用が加速\n【ポイント】\n・大型企業提携\n・動画生成応用\n・コンテンツ革新",
+      "importance": "normal"
+    },
+    {
+      "id": "20251223-001",
+      "title": "Introducing Claude Opus 4.5",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "sourceName": "Anthropic",
+      "category": "Model",
+      "publishedAt": "2025-12-23T00:00:00Z",
+      "summary": "【発表】Claude Opus 4.5 がリリースされました\n【意義】最高性能Claudeで高度なタスク解決が可能\n【ポイント】\n・最新世代LLM\n・高度推論能力\n・複雑タスク対応",
+      "importance": "high"
+    },
+    {
+      "id": "20251223-002",
+      "title": "Introducing Claude Sonnet 4.5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+      "sourceName": "Anthropic",
+      "category": "Model",
+      "publishedAt": "2025-12-23T00:00:00Z",
+      "summary": "【発表】Claude Sonnet 4.5 が導入されました\n【意義】バランス型Claudeの最新版で実運用活用拡大\n【ポイント】\n・バランス型LLM\n・実用性向上\n・幅広い応用",
+      "importance": "high"
+    },
+    {
+      "id": "20251223-003",
+      "title": "Introducing Claude Haiku 4.5",
+      "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+      "sourceName": "Anthropic",
+      "category": "Model",
+      "publishedAt": "2025-12-23T00:00:00Z",
+      "summary": "【発表】Claude Haiku 4.5 がリリースされました\n【意義】軽量高速Claudeでエッジデバイス活用進展\n【ポイント】\n・軽量LLM\n・高速処理\n・低リソース化",
+      "importance": "high"
+    },
+    {
+      "id": "20251223-004",
+      "title": "Anthropic raises $13B Series F at $183B post-money valuation",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "sourceName": "Anthropic",
+      "category": "Other",
+      "publishedAt": "2025-12-23T00:00:00Z",
+      "summary": "【発表】Anthropicが$13Bの資金調達を実施\n【意義】大型調達で研究開発加速、業界リーダー地位強化\n【ポイント】\n・$13B調達\n・企業価値$183B\n・研究加速",
+      "importance": "high"
+    },
+    {
+      "id": "20251223-005",
+      "title": "Working with the US Department of Energy to unlock the next era of scientific discovery",
+      "url": "https://www.anthropic.com/news/genesis-mission-partnership",
+      "sourceName": "Anthropic",
+      "category": "Other",
+      "publishedAt": "2025-12-23T00:00:00Z",
+      "summary": "【発表】米国エネルギー省との科学技術協力開始\n【意義】科学発見次段階加速でAI活用領域拡大\n【ポイント】\n・政府連携\n・科学推進\n・基盤研究",
+      "importance": "normal"
+    },
+    {
+      "id": "20251223-006",
+      "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+      "sourceName": "Anthropic",
+      "category": "Model",
+      "publishedAt": "2025-12-23T00:00:00Z",
+      "summary": "【発表】Model Context Protocol寄付とAgentic AI財団設立\n【意義】業界標準化進展でエージェントAI発展加速\n【ポイント】\n・プロトコル寄付\n・標準化促進\n・財団設立",
+      "importance": "normal"
+    },
+    {
+      "id": "20251223-007",
+      "title": "Accenture and Anthropic launch multi-year partnership to move enterprises from AI pilots to production",
+      "url": "https://www.anthropic.com/news/anthropic-accenture-partnership",
+      "sourceName": "Anthropic",
+      "category": "Other",
+      "publishedAt": "2025-12-23T00:00:00Z",
+      "summary": "【発表】AccentureとAnthropicが複数年提携開始\n【意義】エンタープライズAI本格化でパイロット本運用移行\n【ポイント】\n・企業提携\n・本格導入\n・エンタープライズ対応",
+      "importance": "normal"
+    },
+    {
+      "id": "20251223-008",
+      "title": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
+      "url": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
+      "sourceName": "Anthropic",
+      "category": "Other",
+      "publishedAt": "2025-12-23T00:00:00Z",
+      "summary": "【発表】SnowflakeとAnthropicが$200M提携開始\n【意義】データ企業連携でエージェントAI活用爆発的拡大\n【ポイント】\n・$200M提携\n・エージェント推進\n・データ統合",
+      "importance": "normal"
+    },
+    {
+      "id": "20251223-009",
+      "title": "Anthropic acquires Bun as Claude Code reaches $1B milestone",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
+      "sourceName": "Anthropic",
+      "category": "Other",
+      "publishedAt": "2025-12-23T00:00:00Z",
+      "summary": "【発表】AnthropicがBun買収、Claude Code $1B達成\n【意義】開発者向けAIツール強化で生産性飛躍的向上\n【ポイント】\n・Bun買収\n・Code $1B達成\n・開発支援強化",
+      "importance": "high"
+    },
+    {
+      "id": "20251223-010",
+      "title": "Claude now available in Microsoft Foundry and Microsoft 365 Copilot",
+      "url": "https://www.anthropic.com/news/claude-in-microsoft-foundry",
+      "sourceName": "Anthropic",
+      "category": "Service",
+      "publishedAt": "2025-12-23T00:00:00Z",
+      "summary": "【発表】ClaudeがMicrosoft Foundry と365 Copilotで利用可能\n【意義】大企業統合でClaude利用が大幅拡大\n【ポイント】\n・Microsoft統合\n・エンタープライズ展開\n・利用拡大",
+      "importance": "normal"
+    },
+    {
+      "id": "20251224-001",
+      "title": "A new era of intelligence with Gemini 3",
+      "url": "https://blog.google/products/gemini/gemini-3/",
+      "sourceName": "Google DeepMind",
+      "category": "Model",
+      "publishedAt": "2025-12-24T00:00:00Z",
+      "summary": "【発表】Gemini 3による新しい知能時代スタート\n【意義】最新LLM登場で業界競争激化、新時代突入\n【ポイント】\n・Gemini 3登場\n・新時代開幕\n・競争激化",
+      "importance": "high"
+    },
+    {
+      "id": "20251224-002",
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "url": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+      "sourceName": "Google DeepMind",
+      "category": "Model",
+      "publishedAt": "2025-12-24T00:00:00Z",
+      "summary": "【発表】Google 2025年研究成果8分野が公開\n【意義】多角的AI研究進展で業界への影響拡大\n【ポイント】\n・年間成果発表\n・8分野突破\n・業界影響大",
+      "importance": "normal"
+    },
+    {
+      "id": "20251224-003",
+      "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+      "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+      "sourceName": "Google DeepMind",
+      "category": "Model",
+      "publishedAt": "2025-12-24T00:00:00Z",
+      "summary": "【発表】Gemma Scope 2 が公開されました\n【意義】AI安全性研究支援で業界信頼性向上\n【ポイント】\n・安全性ツール\n・研究支援\n・信頼性向上",
+      "importance": "normal"
+    },
+    {
+      "id": "20251224-004",
+      "title": "Google DeepMind supports U.S. Department of Energy on Genesis",
+      "url": "https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/",
+      "sourceName": "Google DeepMind",
+      "category": "Other",
+      "publishedAt": "2025-12-24T00:00:00Z",
+      "summary": "【発表】Google DeepMindがエネルギー省Genesis支援\n【意義】政府企業AI協力で科学発見加速\n【ポイント】\n・政府協力\n・科学推進\n・基盤研究",
+      "importance": "normal"
+    },
+    {
+      "id": "20251224-005",
+      "title": "Gemini 3 Flash: frontier intelligence built for speed",
+      "url": "https://blog.google/products/gemini/gemini-3-flash",
+      "sourceName": "Google DeepMind",
+      "category": "Model",
+      "publishedAt": "2025-12-24T00:00:00Z",
+      "summary": "【発表】Gemini 3 Flash が発表されました\n【意義】高速フロンティア知能で実用化加速\n【ポイント】\n・高速フロンティア\n・実用的性能\n・スピード重視",
+      "importance": "normal"
+    },
+    {
+      "id": "20251224-006",
+      "title": "Improved Gemini audio models for powerful voice experiences",
+      "url": "https://blog.google/products/gemini/gemini-audio-model-updates/",
+      "sourceName": "Google DeepMind",
+      "category": "Model",
+      "publishedAt": "2025-12-24T00:00:00Z",
+      "summary": "【発表】Geminiの音声モデルが改善されました\n【意義】音声体験向上でマルチモーダル利用拡大\n【ポイント】\n・音声強化\n・体験向上\n・マルチモーダル",
+      "importance": "normal"
+    },
+    {
+      "id": "20251224-007",
+      "title": "Deepening our partnership with the UK AI Security Institute",
+      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+      "sourceName": "Google DeepMind",
+      "category": "Other",
+      "publishedAt": "2025-12-24T00:00:00Z",
+      "summary": "【発表】英国AIセキュリティ研究所との提携深化\n【意義】国際協力でAIセキュリティ強化\n【ポイント】\n・国際提携\n・セキュリティ強化\n・安全性向上",
+      "importance": "normal"
+    },
+    {
+      "id": "20251224-008",
+      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+      "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+      "sourceName": "Google DeepMind",
+      "category": "Model",
+      "publishedAt": "2025-12-24T00:00:00Z",
+      "summary": "【発表】FACTS Benchmark Suite がリリース\n【意義】LLM事実性評価方法確立で信頼性向上\n【ポイント】\n・ベンチマーク\n・事実性評価\n・信頼性基準",
+      "importance": "normal"
+    },
+    {
+      "id": "20251224-009",
+      "title": "AlphaFold: Five years of impact",
+      "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+      "sourceName": "Google DeepMind",
+      "category": "Model",
+      "publishedAt": "2025-12-24T00:00:00Z",
+      "summary": "【発表】AlphaFoldの5年間成果が振り返られた\n【意義】タンパク質予測革新で生命科学大進展\n【ポイント】\n・5年成果\n・構造予測革新\n・科学貢献",
+      "importance": "normal"
+    },
+    {
+      "id": "20251224-010",
+      "title": "Revealing a key protein behind heart disease",
+      "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
+      "sourceName": "Google DeepMind",
+      "category": "Other",
+      "publishedAt": "2025-12-24T00:00:00Z",
+      "summary": "【発表】心臓病関連重要タンパク質が発見された\n【意義】医学研究進展で疾患治療可能性拡大\n【ポイント】\n・発見成果\n・医学進展\n・治療応用",
+      "importance": "normal"
+    }
+  ]
 }
