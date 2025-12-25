@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-25T18:00:00Z",
+  "lastUpdated": "2025-12-25T23:59:59+00:00",
   "news": [
+    {
+      "id": "20251225-026",
+      "title": "Gemini 3 Flash: frontier intelligence built for speed",
+      "url": "https://blog.google/products/gemini/gemini-3-flash/",
+      "publishedAt": "2025-12-17T00:00:00Z",
+      "sourceName": "Google AI Blog",
+      "category": "Model",
+      "importance": "high",
+      "summary": "GoogleがGemini 3 Flashを発表。フロンティア性能と低コストを両立した最新モデル。高速処理と費用効率を実現する新世代AI。"
+    },
     {
       "id": "20251225-001",
       "title": "Sharing our compliance framework for California's Transparency in Frontier AI Act",
@@ -110,6 +120,56 @@
       "category": "Other",
       "importance": "normal",
       "summary": "Google DeepMindが米国エネルギー省のGenesisプロジェクトを支援。科学研究とAI技術の融合による新たな発見を推進。"
+    },
+    {
+      "id": "20251225-021",
+      "title": "Introducing Claude Opus 4.5",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "publishedAt": "2025-11-24T00:00:00Z",
+      "sourceName": "Anthropic News",
+      "category": "Model",
+      "importance": "high",
+      "summary": "Anthropicが最新モデル「Claude Opus 4.5」を発表。コーディング、エージェント、コンピュータ操作で最高性能を実現し、推論とツール利用が大幅に向上。"
+    },
+    {
+      "id": "20251225-022",
+      "title": "A new era of intelligence with Gemini 3",
+      "url": "https://blog.google/products/gemini/gemini-3/",
+      "publishedAt": "2025-11-18T00:00:00Z",
+      "sourceName": "Google AI Blog",
+      "category": "Model",
+      "importance": "high",
+      "summary": "GoogleがGemini 3を発表。最新の知見と技術を統合した最高性能モデル。あらゆるアイデア実現を支援する次世代のAI知性を提供。"
+    },
+    {
+      "id": "20251225-023",
+      "title": "Introducing GPT-5.2",
+      "url": "https://openai.com/index/introducing-gpt-5-2",
+      "publishedAt": "2025-12-11T00:00:00Z",
+      "sourceName": "OpenAI News",
+      "category": "Model",
+      "importance": "high",
+      "summary": "OpenAIがGPT-5.2を発表。前世代を上回る推論能力と知識基盤を持つ次世代モデル。より複雑なタスク処理と自律性が向上。"
+    },
+    {
+      "id": "20251225-024",
+      "title": "Code execution with MCP: Building more efficient agents",
+      "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+      "publishedAt": "2025-11-04T00:00:00Z",
+      "sourceName": "Anthropic Engineering",
+      "category": "Service",
+      "importance": "normal",
+      "summary": "MCPを使用したコード実行でエージェント効率化。トークン使用量98.7%削減。プログレッシブツール読み込みでスケーラビリティ向上。"
+    },
+    {
+      "id": "20251225-025",
+      "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
+      "url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
+      "publishedAt": "2025-10-20T00:00:00Z",
+      "sourceName": "Anthropic Engineering",
+      "category": "Service",
+      "importance": "normal",
+      "summary": "Claude Codeのサンドボックス強化。ファイルシステム隔離で許可プロンプト84%削減。セキュリティと自律性が向上。"
     }
   ]
 }

@@ -1,11 +1,11 @@
-import { query } from "@anthropic-ai/claude-code";
+import { query } from "@anthropic-ai/claude-agent-sdk";
 
 async function runAgent() {
   console.log("🚀 AI Pulse Agent 起動中...");
   const startTime = new Date().toISOString();
 
   for await (const message of query({
-    prompt: "AI ニュースを収集して data/current.json に保存してください",
+    prompt: "Skill ツールを使用して /news-collector を実行してください",
     options: {
       allowedTools: ["WebFetch", "Read", "Write", "Skill"],
       settingSources: ["project"],

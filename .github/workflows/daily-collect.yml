@@ -44,7 +44,9 @@ jobs:
         run: npm run agent
 
       - name: Copy news data to public
-        run: cp data/current.json public/data/
+        run: |
+          mkdir -p public/data
+          cp data/current.json public/data/
 
       - name: Commit and push news data
         run: |
