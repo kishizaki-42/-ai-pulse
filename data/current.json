@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T12:00:00Z",
+  "lastUpdated": "2025-12-25T18:00:00Z",
   "news": [
     {
       "id": "20251225-001",
@@ -52,94 +52,64 @@
       "summary": "AnthropicとAccentureが複数年にわたるパートナーシップを締結。企業がAIパイロットプロジェクトから本格運用に移行するための支援を提供。"
     },
     {
-      "id": "20251225-006",
-      "title": "Introducing SAM Audio: The First Unified Multimodal Model for Audio Separation",
-      "url": "https://ai.meta.com/blog/sam-audio/",
-      "publishedAt": "2025-12-16T00:00:00Z",
-      "sourceName": "Meta AI Blog",
-      "category": "Model",
-      "importance": "high",
-      "summary": "MetaがSAM Audioを発表。テキスト、視覚的手がかり、時間セグメントなどの自然なマルチモーダルプロンプトを使用して音声分離を行う初の統合モデル。"
-    },
-    {
-      "id": "20251225-007",
-      "title": "How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
-      "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
-      "publishedAt": "2025-12-18T00:00:00Z",
-      "sourceName": "Meta AI Blog",
-      "category": "Other",
+      "id": "20251225-015",
+      "title": "Effective harnesses for long-running agents",
+      "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "publishedAt": "2025-11-26T00:00:00Z",
+      "sourceName": "Anthropic Engineering",
+      "category": "Service",
       "importance": "normal",
-      "summary": "ペンシルベニア大学チームがMetaのDINOとSAMモデルを活用し、医療トリアージプロセスの自動化を実現。緊急医療対応の効率化に貢献。"
+      "summary": "長時間実行エージェントの課題と解決策について解説。複数のコンテキストウィンドウにまたがるエージェント実装のベストプラクティスを紹介。"
     },
     {
-      "id": "20251225-008",
-      "title": "The Universities Space Research Association Applies Segment Anything Model for Responding to Flood Emergencies",
-      "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
-      "publishedAt": "2025-12-18T00:00:00Z",
-      "sourceName": "Meta AI Blog",
-      "category": "Other",
-      "importance": "normal",
-      "summary": "大学宇宙研究協会（USRA）とMetaが協力し、洪水緊急時対応にSegment Anything Modelを適用。米国地質調査所の水観測システムを支援。"
-    },
-    {
-      "id": "20251225-009",
-      "title": "How Conservation X Labs Is Using Segment Anything Model 3 for Endangered Wildlife Monitoring",
-      "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
+      "id": "20251225-016",
+      "title": "Introducing advanced tool use on the Claude Developer Platform",
+      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
       "publishedAt": "2025-11-24T00:00:00Z",
-      "sourceName": "Meta AI Blog",
-      "category": "Other",
-      "importance": "normal",
-      "summary": "Conservation X LabsがMetaのSegment Anything Model 3を使用して絶滅危惧野生動物のモニタリングを実施。環境保護活動の技術的支援に貢献。"
-    },
-    {
-      "id": "20251225-010",
-      "title": "ExecuTorch Adoption in Reality Labs: Powering On-Device AI Across Meta Devices",
-      "url": "https://ai.meta.com/blog/executorch-reality-labs-on-device-ai/",
-      "publishedAt": "2025-11-21T00:00:00Z",
-      "sourceName": "Meta AI Blog",
+      "sourceName": "Anthropic Engineering",
       "category": "Service",
       "importance": "normal",
-      "summary": "MetaのオープンソースAI推論エンジンExecuTorchがReality Labsで採用され、Meta全体のデバイスでオンデバイスAI機能を実現。"
+      "summary": "Claude開発者プラットフォームに高度なツール使用機能を導入。開発者向けの新機能とAPIの拡張について解説。"
     },
     {
-      "id": "20251225-011",
-      "title": "Can AI learn the language of biology to reimagine medicine?",
-      "url": "https://news.microsoft.com/signal/articles/can-ai-learn-the-language-of-biology-to-reimagine-medicine/",
-      "publishedAt": "2025-12-01T00:00:00Z",
-      "sourceName": "Microsoft AI Blog",
+      "id": "20251225-017",
+      "title": "Engineering more resilient crops for a warming climate",
+      "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+      "publishedAt": "2025-12-20T00:00:00Z",
+      "sourceName": "DeepMind Blog",
       "category": "Other",
       "importance": "normal",
-      "summary": "MicrosoftがAI技術による生物学の理解と医療革新の可能性について探求。生物学的データの解析と新薬開発へのAI応用を検討。"
+      "summary": "気候変動に対応した耐性作物の開発にAI技術を活用。温暖化する気候に適応した農業技術の研究成果を紹介。"
     },
     {
-      "id": "20251225-012",
-      "title": "Startups can do more right now with AI: 5 insights from Microsoft CTO Kevin Scott",
-      "url": "https://news.microsoft.com/signal/?p=724",
-      "publishedAt": "2025-12-01T00:00:00Z",
-      "sourceName": "Microsoft AI Blog",
+      "id": "20251225-018",
+      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+      "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+      "publishedAt": "2025-12-20T00:00:00Z",
+      "sourceName": "DeepMind Blog",
+      "category": "Model",
+      "importance": "normal",
+      "summary": "大規模言語モデルの事実性を体系的に評価するFACTSベンチマークスイートを発表。LLMの正確性測定手法を提案。"
+    },
+    {
+      "id": "20251225-019",
+      "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+      "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+      "publishedAt": "2025-12-19T00:00:00Z",
+      "sourceName": "DeepMind Blog",
+      "category": "Model",
+      "importance": "normal",
+      "summary": "Gemma Scope 2を公開し、AI安全性コミュニティが複雑な言語モデルの挙動を深く理解できるよう支援。モデル解釈性の向上に貢献。"
+    },
+    {
+      "id": "20251225-020",
+      "title": "Google DeepMind supports U.S. Department of Energy on Genesis",
+      "url": "https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/",
+      "publishedAt": "2025-12-18T00:00:00Z",
+      "sourceName": "DeepMind Blog",
       "category": "Other",
       "importance": "normal",
-      "summary": "Microsoft CTO Kevin Scottがスタートアップ企業がAIを活用するための5つの重要な洞察を共有。AI導入の実践的アドバイスを提供。"
-    },
-    {
-      "id": "20251225-013",
-      "title": "From Signal magazine: How AI is reshaping the game on and off the court",
-      "url": "https://news.microsoft.com/signalmagazine/issue/issue-02/#slam-dunk",
-      "publishedAt": "2025-12-01T00:00:00Z",
-      "sourceName": "Microsoft AI Blog",
-      "category": "Other",
-      "importance": "normal",
-      "summary": "Microsoftが発行するSignal誌より、AIがスポーツ界に与える影響について分析。コート内外でのAI技術活用事例を紹介。"
-    },
-    {
-      "id": "20251225-014",
-      "title": "A race against time: Maharashtra police get an AI copilot to fight cybercrime",
-      "url": "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
-      "publishedAt": "2025-12-01T00:00:00Z",
-      "sourceName": "Microsoft AI Blog",
-      "category": "Service",
-      "importance": "normal",
-      "summary": "インド・マハラシュトラ州警察がサイバー犯罪対策にAIコパイロット技術を導入。法執行機関でのAI活用による犯罪捜査の効率化を実現。"
+      "summary": "Google DeepMindが米国エネルギー省のGenesisプロジェクトを支援。科学研究とAI技術の融合による新たな発見を推進。"
     }
   ]
 }

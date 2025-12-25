@@ -40,6 +40,7 @@ jobs:
       - name: Run AI Pulse Agent
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
         run: npm run agent
 
       - name: Copy news data to public
