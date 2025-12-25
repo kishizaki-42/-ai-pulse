@@ -2,18 +2,19 @@
 
 Claude Agent SDK の技術検証を目的とした AI ニュース収集エージェント
 
+**Demo**: https://kishizaki-42.github.io/-ai-pulse/
+
 ## 概要
 
-AI Pulse は、Claude Agent SDK の主要機能（Memory, Skills, Sessions）を活用し、AI 業界のニュースを毎朝自動収集・分析する単一エージェントシステムです。
+AI Pulse は、Claude Agent SDK の主要機能（Memory, Skills）を活用し、AI 業界のニュースを毎朝自動収集・分析する単一エージェントシステムです。
 
 ## 検証する SDK 機能
 
-| 機能 | 用途 | 設定 |
-|------|------|------|
+| 機能 | 用途 | ファイル |
+|------|------|----------|
 | Memory | プロジェクトルール定義 | `CLAUDE.md` |
-| Skills | 収集ロジック分離 | `.claude/skills/news-collector/SKILL.md` |
-| Sessions | 状態維持・重複回避 | `resume: sessionId` |
-| Built-in Tools | WebFetch, Read, Write | `allowedTools` |
+| Skills | 収集ロジック・分類ルール | `.claude/skills/news-collector/` |
+| Built-in Tools | WebFetch, Read, Write, Skill | `allowedTools` |
 
 ## アーキテクチャ
 
@@ -26,15 +27,10 @@ GitHub Actions (JST 6:00)
 │                                         │
 │  ┌─────────────┐  ┌─────────────────┐  │
 │  │ Memory      │  │ Skills          │  │
-│  │ (CLAUDE.md) │  │ (SKILL.md)      │  │
+│  │ (CLAUDE.md) │  │ (news-collector)│  │
 │  └─────────────┘  └─────────────────┘  │
 │                                         │
-│  ┌─────────────────────────────────┐   │
-│  │ Sessions                        │   │
-│  │ 前回状態の維持・重複回避          │   │
-│  └─────────────────────────────────┘   │
-│                                         │
-│  Tools: WebFetch, Read, Write          │
+│  Tools: WebFetch, Read, Write, Skill   │
 └─────────────────────────────────────────┘
     │
     ▼
@@ -84,27 +80,19 @@ npm run build
 ```
 ai-pulse/
 ├── CLAUDE.md                    # Memory: プロジェクトルール
-├── .claude/skills/
-│   └── news-collector/
-│       └── SKILL.md             # Skills: 収集ロジック
-├── agent/
-│   └── index.ts                 # エージェント エントリーポイント
-├── config/
-│   └── whitelist.json           # 監視 URL リスト
-├── data/
-│   └── current.json             # ニュースデータ
+├── .claude/skills/news-collector/
+│   ├── SKILL.md                 # ワークフロー定義
+│   ├── scripts/validate_output.py   # 出力検証
+│   ├── references/classification.md # 分類ルール
+│   └── assets/output_schema.json    # JSON Schema
+├── agent/index.ts               # エージェント エントリーポイント
+├── config/whitelist.json        # 監視 URL リスト
+├── data/current.json            # ニュースデータ
 ├── src/                         # React Frontend
 │   ├── App.tsx
-│   ├── components/
-│   │   ├── NewsCard.tsx
-│   │   ├── NewsList.tsx
-│   │   └── NewsModal.tsx
-│   └── types/
-│       └── news.ts
-├── .github/workflows/
-│   └── daily-collect.yml        # GitHub Actions
+│   └── components/
+├── .github/workflows/daily-collect.yml
 ├── package.json
-├── tsconfig.json
 └── vite.config.ts
 ```
 
@@ -158,8 +146,7 @@ interface NewsArticle {
 |------|-------------|
 | 通知機能 | MCP（Slack MCP Server） |
 | DB 移行 | MCP（Supabase MCP Server） |
-| ガードレール | Hooks |
-| マルチエージェント | Subagents |
+| ガードレール | Hooks（監査ログ） |
 
 ## ライセンス
 

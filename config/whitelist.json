@@ -1,24 +1,24 @@
 {
   "sources": [
     {
-      "url": "https://openai.com/blog",
-      "sourceName": "OpenAI Blog"
+      "url": "https://openai.com/news/rss.xml",
+      "sourceName": "OpenAI News"
     },
     {
       "url": "https://www.anthropic.com/news",
       "sourceName": "Anthropic News"
     },
     {
+      "url": "https://www.anthropic.com/engineering",
+      "sourceName": "Anthropic Engineering"
+    },
+    {
       "url": "https://blog.google/technology/ai/",
       "sourceName": "Google AI Blog"
     },
     {
-      "url": "https://ai.meta.com/blog/",
-      "sourceName": "Meta AI Blog"
-    },
-    {
-      "url": "https://blogs.microsoft.com/ai/",
-      "sourceName": "Microsoft AI Blog"
+      "url": "https://deepmind.google/blog/",
+      "sourceName": "DeepMind Blog"
     }
   ]
 }
