@@ -5,7 +5,7 @@ async function runAgent() {
   const startTime = new Date().toISOString();
 
   for await (const message of query({
-    prompt: "Skill ツールを使用して /news-collector を実行してください",
+    prompt: "Skill ツールで /news-collector を実行し、実際にニュースを収集してください。config/whitelist.json のURLを巡回し、data/current.json に保存するまで完了してください。",
     options: {
       allowedTools: ["WebFetch", "Read", "Write", "Skill"],
       settingSources: ["project"],
