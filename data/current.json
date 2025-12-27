@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-12-26T21:15:00Z",
+  "lastUpdated": "2025-12-27T00:00:00Z",
   "news": [
+    {
+      "id": "20251227-001",
+      "title": "AI literacy resources for teens and parents",
+      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "sourceName": "OpenAI News",
+      "category": "Service",
+      "publishedAt": "2025-12-18T00:00:00Z",
+      "summary": "【発表】AI リテラシー教育リソースが発表\n【意義】次世代の AI 理解教育を促進\n【ポイント】\n・教育サポート\n・保護者向け情報\n・AI 理解向上",
+      "importance": "normal"
+    },
+    {
+      "id": "20251227-002",
+      "title": "Sharing our compliance framework for California's Transparency in Frontier AI Act",
+      "url": "https://www.anthropic.com/news/compliance-framework-SB53",
+      "sourceName": "Anthropic News",
+      "category": "Other",
+      "publishedAt": "2025-12-19T00:00:00Z",
+      "summary": "【発表】カリフォルニア州 SB53 対応コンプライアンスフレームワーク公開\n【意義】Frontier AI の規制対応で業界基準確立\n【ポイント】\n・セキュリティ評価\n・透明性確保\n・規制対応",
+      "importance": "normal"
+    },
+    {
+      "id": "20251227-003",
+      "title": "Protecting the well-being of our users",
+      "url": "https://www.anthropic.com/news/protecting-well-being-of-users",
+      "sourceName": "Anthropic News",
+      "category": "Service",
+      "publishedAt": "2025-12-18T00:00:00Z",
+      "summary": "【発表】Claude の安全ガイドライン強化\n【意義】危機対応やバイアス低減で利用者保護向上\n【ポイント】\n・危機対応率 98.6%\n・シノフィリー低減\n・利用者保護",
+      "importance": "normal"
+    },
+    {
+      "id": "20251227-004",
+      "title": "Claude for Nonprofits",
+      "url": "https://www.anthropic.com/news/claude-for-nonprofits",
+      "sourceName": "Anthropic News",
+      "category": "Service",
+      "publishedAt": "2025-12-02T00:00:00Z",
+      "summary": "【発表】Claude for Nonprofits プログラム開始\n【意義】NPO 団体の AI 活用支援で社会インパクト拡大\n【ポイント】\n・最大 75% 割引\n・教育プログラム\n・ツール統合",
+      "importance": "normal"
+    },
     {
       "id": "20251222-001",
       "title": "One in a million: celebrating the customers shaping AI's future",
