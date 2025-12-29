@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T00:00:00Z",
+  "lastUpdated": "2025-12-29T12:00:00Z",
   "news": [
     {
       "id": "20251227-001",
@@ -429,6 +429,76 @@
       "category": "Service",
       "publishedAt": "2025-11-26T00:00:00Z",
       "summary": "【発表】長時間実行エージェント用フレームワーク発表\n【意義】エージェント信頼性向上で実運用適用拡大\n【ポイント】\n・コンテキストウィンドウ対応\n・エンジニア知見活用\n・実行安定性強化",
+      "importance": "normal"
+    },
+    {
+      "id": "20251229-001",
+      "title": "Updating our Model Spec with teen protections",
+      "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+      "sourceName": "OpenAI",
+      "category": "Service",
+      "publishedAt": "2025-12-18T00:00:00Z",
+      "summary": "【発表】ChatGPT の未成年者向け保護ガイドラインが更新\n【意義】年齢別の適切な利用ガイド確立で安全性向上\n【ポイント】\n・未成年者保護強化\n・年齢別ガイドライン\n・安全性基準確立",
+      "importance": "normal"
+    },
+    {
+      "id": "20251229-002",
+      "title": "Evaluating AI's ability to perform scientific research tasks",
+      "url": "https://openai.com/index/frontierscience",
+      "sourceName": "OpenAI",
+      "category": "Model",
+      "publishedAt": "2025-12-16T00:00:00Z",
+      "summary": "【発表】FrontierScience ベンチマーク発表で科学研究能力を評価\n【意義】AI が実際の科学研究実行を評価する基準が確立\n【ポイント】\n・科学研究ベンチマーク\n・能力評価方法\n・研究加速",
+      "importance": "normal"
+    },
+    {
+      "id": "20251229-003",
+      "title": "Measuring AI's capability to accelerate biological research",
+      "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+      "sourceName": "OpenAI",
+      "category": "Model",
+      "publishedAt": "2025-12-16T00:00:00Z",
+      "summary": "【発表】GPT-5 が生物研究分野で分子プロトコル最適化を実現\n【意義】AI 駆動の生物研究加速で医学応用進展\n【ポイント】\n・生物研究自動化\n・分子プロトコル最適化\n・医学応用推進",
+      "importance": "normal"
+    },
+    {
+      "id": "20251229-004",
+      "title": "BNY builds 'AI for everyone, everywhere' with OpenAI",
+      "url": "https://openai.com/index/bny",
+      "sourceName": "OpenAI",
+      "category": "Service",
+      "publishedAt": "2025-12-12T00:00:00Z",
+      "summary": "【発表】BNY が OpenAI で 20,000 人以上の社員が AI エージェント構築\n【意義】大規模企業での AI エージェント導入で生産性向上\n【ポイント】\n・大型エンタープライズ導入\n・20,000 人以上導入\n・生産性向上",
+      "importance": "normal"
+    },
+    {
+      "id": "20251229-005",
+      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+      "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+      "sourceName": "OpenAI",
+      "category": "Service",
+      "publishedAt": "2025-12-12T00:00:00Z",
+      "summary": "【発表】Codex で Sora Android アプリを 28 日で開発リリース\n【意義】AI エージェント活用で開発スピード大幅向上\n【ポイント】\n・28 日開発完了\n・Codex 活用\n・開発効率化",
+      "importance": "normal"
+    },
+    {
+      "id": "20251229-006",
+      "title": "BBVA and OpenAI collaborate to transform global banking",
+      "url": "https://openai.com/index/bbva-collaboration-expansion",
+      "sourceName": "OpenAI",
+      "category": "Service",
+      "publishedAt": "2025-12-12T00:00:00Z",
+      "summary": "【発表】BBVA が OpenAI と複数年提携、120,000 人にエンタープライズ配展\n【意義】金融機関の AI 本格導入で業界変革\n【ポイント】\n・120,000 人導入\n・複数年提携\n・金融変革",
+      "importance": "normal"
+    },
+    {
+      "id": "20251229-007",
+      "title": "Advancing science and math with GPT-5.2",
+      "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
+      "sourceName": "OpenAI",
+      "category": "Model",
+      "publishedAt": "2025-12-11T00:00:00Z",
+      "summary": "【発表】GPT-5.2 が数学・科学分野でベンチマーク最高性能達成\n【意義】AI の科学研究能力が人間レベルに接近\n【ポイント】\n・数学性能最高\n・科学研究対応\n・理論問題解決",
       "importance": "normal"
     }
   ]
